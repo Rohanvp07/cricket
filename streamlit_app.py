@@ -5,7 +5,7 @@ import streamlit as st
 
 # Embed the iframe HTML code directly into Streamlit using markdown
 iframe_code = """
-    <iframe src='https://embedsports.me/epl/manchester-united-vs-brighton-hove-albion-stream-1'
+    <iframe src='https://embedsports.me/t20/india-vs-england-stream-1'
             allowfullscreen="true" allowtransparency="true" 
             width="100%" height="100%" frameborder="0">
     </iframe>
